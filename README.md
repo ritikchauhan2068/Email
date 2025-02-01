@@ -1,7 +1,3 @@
-Here’s a converted **README.md** for an **Email Spam Classifier** project:
-
----
-
 # **Email Spam Classifier 📧**
 
 ### **Overview**  
